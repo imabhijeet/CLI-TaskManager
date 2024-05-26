@@ -1,2 +1,3 @@
 # CLI-TaskManager
-A simple command line task manager created with Vanilla Javascript
+
+This repository contains the code for a simple CLI task manager with CRUD functionality created with Vanilla Javascript.
